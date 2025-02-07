@@ -6,8 +6,7 @@
 
 # 💫 About Me:
 
-"👋 I'm Harshal Joshi, a tech enthusiast with a passion for learning and a strong work ethic. My journey in the world of technology has led me to explore cloud management ☁️ and delve into the exciting realm of DevOps tools 🛠️. I'm dedicated to staying up-to-date with the latest trends and technologies, and I'm always eager to take on new challenges. Let's connect and explore the possibilities of the digital world together! 🚀🌐" 🚀🌐
-
+"Hi, I'm Harshal – a Linux, AWS, and DevOps enthusiast passionate about cloud computing, automation, and infrastructure as code (IaC). I enjoy optimizing systems, implementing CI/CD pipelines, and enhancing cloud security." 🚀
 
 - 🌱 I’m currently learning **devops**
 
