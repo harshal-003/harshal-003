@@ -1,8 +1,8 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1447870/screenshots/6163011/media/1f5e3cc39ac05fb870293745d3ff1f56.gif">
-<h1 align="center">Hi 👋, I'm Harshal Joshi</h1>
-<h3 align="center">A passionate Devops engineer from India</h3>
+<h1 align="left">Hi 👋, I'm Harshal Joshi</h1>
+<h3 align="left">A passionate Devops engineer from India</h3>
 
 # 💫 About Me:
 
