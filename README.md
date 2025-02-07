@@ -5,7 +5,6 @@
 <h3 align="left">A passionate Devops engineer from India</h3>
 
 # 💫 About Me:
-
 "Hi, I'm Harshal – a Linux, AWS, and DevOps enthusiast passionate about cloud computing, automation, and infrastructure as code (IaC). I enjoy optimizing systems, implementing CI/CD pipelines, and enhancing cloud security." 🚀
 
 - 🌱 I’m currently learning **devops**
