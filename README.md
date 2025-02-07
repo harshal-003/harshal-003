@@ -4,15 +4,8 @@
 <h1 align="center">Hi 👋, I'm Harshal Joshi</h1>
 <h3 align="center">A passionate Devops engineer from India</h3>
 # 💫 About Me:
-"DevOps enthusiast with expertise in Linux, cloud computing, automation, and infrastructure as code." 🚀
 
-
-
-
-
-
-
- 🚀🌐
+"DevOps enthusiast with expertise in Linux, cloud computing, automation, and infrastructure as code." 🚀🌐
 
 
 - 🌱 I’m currently learning **devops**
