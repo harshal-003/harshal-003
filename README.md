@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **devops**
 
-- 📫 How to reach me **harshaljoshi9922@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
